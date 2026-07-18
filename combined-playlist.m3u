@@ -17828,9 +17828,12 @@ https://live-manifest.production-public.tubi.io/live/8a3bfd19-8982-4a0a-b76c-14d
 https://live-manifest.production-public.tubi.io/live/ab1704f0-7075-4fe7-9263-b25af145e503/playlist.m3u8
 #EXTINF:-1 tvg-id="702892" tvg-logo="https://canvas-lb.tubitv.com/opts/O6w2cPsZ16GUNA==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjlAAQ==" group-title="tubi_playlist",Xplore
 https://live-manifest.production-public.tubi.io/live/f9eae274-e379-4d83-8a2b-bbb4c8f015aa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="CricHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
+https://playztv.pages.dev/promo/master.m3u8
 # By Abu SAEEID X Noob
 # Github @abusaeeidx
-# Update on 2026-07-19 00:37:02 (BD Time)
+# Update on 2026-07-19 01:49:30 (BD Time)
 # Note: I do not host any content, everything is publicly available.
 
 #EXTINF:-1 tvg-id="fallback" tvg-name="Fallback Channel" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg" group-title="CricHD",Fallback Channel
